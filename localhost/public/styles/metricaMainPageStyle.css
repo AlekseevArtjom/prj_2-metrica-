@@ -1,0 +1,31 @@
+
+
+#refsOfCurrentSiteList 
+{
+	display: none;
+}
+
+#ui-id-1
+{
+	font-size: 0.5em;
+}
+
+#dialogSetDate
+{
+	font-size: 0.4em;
+
+}
+
+#graphicsClicksTimes
+{
+	border: solid 5px rgba(0, 250, 0, 0.1);
+	margin: 5px auto;
+	width: 500px;
+	height: 300px;
+
+}
+
+
+#ClickMap{ display: none; position: relative; width: 500px; height: 1000px; margin: 5px auto;}
+#ClickMap iframe { width: 100%; height: 100%; }
+

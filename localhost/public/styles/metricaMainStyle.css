@@ -1,0 +1,26 @@
+body
+{
+	text-align: center;
+	min-width: 400px;
+}
+
+
+
+#footer, #headline
+{
+	background-color: rgba(0, 250, 0, 0.1);
+	width: 100%;
+}
+
+#footer h3 { font-size: 0.5em;}
+#footer p { font-size: 0.2em;}
+
+
+
+
+
+input
+{
+	
+
+}
